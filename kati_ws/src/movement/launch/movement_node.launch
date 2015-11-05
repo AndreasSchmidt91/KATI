@@ -1,0 +1,3 @@
+<launch>
+  <node name="movement_node" pkg="movement" type="movement_node" />
+</launch>
